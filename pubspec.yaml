@@ -1,0 +1,15 @@
+
+name: a_1387
+description: A Flutter app for remote control of 433MHz codes via ESP8266.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+flutter:
+  uses-material-design: true
